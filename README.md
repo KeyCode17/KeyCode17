@@ -1,4 +1,11 @@
-<a href="https://github.com/KeyCode17"><img align="center" src="https://github-readme-stats-beta-rust-25.vercel.app/api?username=keycode17&show_icons=true&include_all_commits=true&theme=transparent&hide_border=false" alt="Anurag's github stats" /></a> <a href="https://github.com/KeyCode17"><img align="center" src="https://github-readme-stats-beta-rust-25.vercel.app/api/top-langs/?username=keycode17&layout=compact&theme=buefy&hide_border=true" /></a>
+<h1>Welcome</h1>
+<body>
+  
+![Welcome](https://github.com/KeyCode17/KeyCode17/blob/main/Welcome.gif)
+
+<a href="https://github.com/KeyCode17"><img align="center" src="https://github-readme-stats-beta-rust-25.vercel.app/api?username=keycode17&show_icons=true&&hide=contribs&theme=transparent&hide_border=false" alt="Anurag's github stats" /></a> <a href="https://github.com/KeyCode17"><img align="center" src="https://github-readme-stats-beta-rust-25.vercel.app/api/top-langs/?username=keycode17&layout=compact&hide_border=false&theme=transparent" /></a>
+</body>
+
 <!--
 **KeyCode17/KeyCode17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
