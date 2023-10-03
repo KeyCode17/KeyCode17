@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/daffakaryudi/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <h2>Status:</h2>
-<a href="https://github.com/KeyCode17"><img align="center" src="https://github-readme-stats-beta-rust-25.vercel.app/api?username=keycode17&show_icons=true&&hide=contribs&theme=transparent&hide_border=false" alt="Daffa's github stats" /></a> <a href="https://github.com/KeyCode17"><img align="center" src="https://github-readme-stats-beta-rust-25.vercel.app/api/top-langs/?username=keycode17&layout=compact&hide_border=false&theme=transparent" /></a>
+<a href="https://github.com/KeyCode17"><img align="center" src="https://github-readme-stats.vercel.app/api?username=keycode17&show_icons=true&&hide=contribs&theme=transparent&hide_border=false" alt="Daffa's github stats" /></a> <a href="https://github.com/KeyCode17"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keycode17&layout=compact&hide_border=false&theme=transparent" /></a>
 </body>
 
 <!--
