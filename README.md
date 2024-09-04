@@ -10,7 +10,11 @@
 
 <h2>Status:</h2>
 <a href="https://github.com/KeyCode17"><img align="center" src="https://github-readme-stats.vercel.app/api?username=keycode17&show_icons=true&&hide=contribs&theme=transparent&hide_border=false" alt="Daffa's github stats" /></a> <a href="https://github.com/KeyCode17"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keycode17&layout=compact&hide_border=false&theme=transparent" /></a>
-</body>
+
+<h2>Let's Vibes With Me</h2>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=n0rhzcnqghyfcaxfu74new5d3&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 <!--
 **KeyCode17/KeyCode17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
