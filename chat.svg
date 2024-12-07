@@ -1,4 +1,4 @@
-<svg width="550" height="398" viewBox="0 0 550 398" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="550" height="340" viewBox="0 0 550 340" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     .bubble {
       fill: #e9e9eb;
@@ -53,31 +53,22 @@
       animation: wait 9.2s, msg-4 0.2s 9.2s;
     }
 
-    .msg-5 {
-      animation: wait 11.7s, msg-5 0.2s 11.7s;
-    }
-
-    .msg-6 {
-      animation: wait 14.2s, msg-6 0.2s 16.7s;
-    }    
-    
     .typing-5 {
       opacity: 0;
       animation: wait 10s, fade-in-out 1.5s 10s;
     }    
     
+    .msg-5 {
+      animation: wait 11.7s, msg-5 0.2s 11.7s;
+    }
+
     .typing-6 {
       opacity: 0;
       animation: wait 12.5s, fade-in-out 1.5s 12.5s;
-    }
-
-    .typing-7 {
-      opacity: 0;
-      animation: wait 15s, fade-in-out 1.5s 15s;
-    }
-
-    .msg-7 {
-      animation: wait 16.7s, msg-6 0.2s 14.2s;
+    }   
+    
+    .msg-6 {
+      animation: wait 14.2s, msg-6 0.2s 16.7s;
     }    
     
     @keyframes wait {
@@ -162,18 +153,7 @@
         opacity: 1;
         transform: translate(10px, 288px);
       }
-    }
-
-    @keyframes msg-7 {
-      0% {
-        opacity: 0;
-        transform: translate(10px, 341px);
-      }
-      100% {
-        opacity: 1;
-        transform: translate(10px, 336px);
-      }
-    }    
+    } 
     
     @media (prefers-color-scheme: dark) {
       .bubble {
@@ -270,8 +250,8 @@
 
   <!-- Karyudi Here -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="175" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi 👋, Karyudi Here</text>
+    <rect width="180" height="42" rx="18.0355" />
+    <text x="15" y="27"> Hi 👋, Karyudi Here </text>
   </g>
 
   <!-- typing 2 -->
@@ -294,12 +274,12 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="190" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Junior Data Scientist</text>
+    <rect width="195" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27"> Junior Data Scientist </text>
   </g>
 
   <!-- typing 3 -->
-  <g transform="translate(10, 120)" class="typing-3">
+  <g transform="translate(10, 96)" class="typing-3">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -317,38 +297,13 @@
   </g>
 
   <!-- Work ... -->
-  <g transform="translate(10, 120)" class="msg-3">
-    <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Open for work</text> 
+  <g transform="translate(10, 96)" class="msg-3">
+    <rect width="142" height="42.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27"> Open for work </text> 
   </g>
 
-
-  <!-- typing 5 -->
-  <g transform="translate(10, 240)" class="typing-5">
-  <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
-  <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
-  <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
-
-    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
-    </circle>
-
-  </g>
-
-  <!-- Thanks -->
-  <g transform="translate(10, 240)" class="msg-5">
-    <rect width="200" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Open for collaboration</text>    
-  </g>  
-  
   <!-- typing 4 -->
-  <g transform="translate(10, 192)" class="typing-4">
+  <g transform="translate(10, 145)" class="typing-4">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -366,13 +321,36 @@
   </g>
 
   <!-- Twitter -->
-  <g transform="translate(10, 192)" class="msg-4">
-    <rect width="400" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Going to graduate in 2025</text>
+  <g transform="translate(10, 145)" class="msg-4">
+    <rect width="246" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27"> Going to graduate in 2025 </text>
   </g>
 
+  <!-- typing 5 -->
+  <g transform="translate(10, 194)" class="typing-5">
+  <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+  <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+  <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
+
+    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Thanks -->
+  <g transform="translate(10, 194)" class="msg-5">
+    <rect width="219" height="42.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27"> Open for collaboration </text>    
+  </g>  
+
   <!-- typing 6 -->
-  <g transform="translate(10, 288)" class="typing-6">
+  <g transform="translate(10, 244)" class="typing-6">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -390,32 +368,10 @@
   </g>
 
   <!-- Have a great... -->
-  <g transform="translate(10, 288)" class="msg-6">
-    <rect width="365" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> please reach out via <a href="https://www.linkedin.com/in/daffakaryudi/">https://www.linkedin.com/in/daffakaryudi/</a></text>
-  </g>
-  
-
-  <!-- typing 6 -->
-  <g transform="translate(10, 336)" class="typing-7">
-  <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
-  <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
-  <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
-
-    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
-    </circle>
-  </g>
-
-  <!-- Have a great... -->
-  <g transform="translate(10, 336)" class="msg-7">
-    <rect width="445" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Or you can reach me at m.daffa.karyudi@gmail.com</text>
+  <g transform="translate(10, 244)" class="msg-6">
+    <rect width="376" height="82.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27"> Please reach out via</text>
+    <text x="15" y="50"> <a href="https://www.linkedin.com/in/daffakaryudi/"> https://www.linkedin.com/in/daffakaryudi/</a></text>
+     <text x="15" y="73">  or reach me at m.daffa.karyudi@gmail.com</text>
   </g>
 </svg>
