@@ -392,7 +392,7 @@
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
     <rect width="365" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> please reach out via <a href="https://www.linkedin.com/in/daffakaryudi/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a></text>
+    <text x="15" y="27"> please reach out via <a href="https://www.linkedin.com/in/daffakaryudi/">https://www.linkedin.com/in/daffakaryudi/</a></text>
   </g>
   
 
@@ -416,6 +416,6 @@
   <!-- Have a great... -->
   <g transform="translate(10, 336)" class="msg-7">
     <rect width="445" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Or you can reach me at <a href="https://www.linkedin.com/in/daffakaryudi/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white</a></text>
+    <text x="15" y="27">Or you can reach me at m.daffa.karyudi@gmail.com</text>
   </g>
 </svg>
