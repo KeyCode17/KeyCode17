@@ -7,8 +7,17 @@
 
 <h2>How To Reach Me:</h2>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=m.daffa.karyudi@gmail.com">![m.daffa.karyudi@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/daffakaryudi/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<div>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=m.daffa.karyudi@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/daffakaryudi/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://daffakaryudi.web.id/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
 
 <!-- <h2>Status:</h2> -->
 <!--
